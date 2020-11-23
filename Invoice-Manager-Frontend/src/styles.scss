@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+// **************** Themes *******************
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+// @import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+// @import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+// @import "~@angular/material/prebuilt-themes/purple-green.css";
+
+// **************** End *******************
+
+body{
+    margin: 0;
+    background: rgb(255,64,129);
+    background: linear-gradient(90deg, rgba(255,64,129,1) 0%, rgba(182,106,165,1) 49%, rgba(0,212,255,1) 100%);
+}
